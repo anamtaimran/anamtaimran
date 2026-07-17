@@ -1,10 +1,6 @@
 ## 👋 Hi, I'm Anamta Imran
 
-🎓 Software Engineering Student exploring the world of software development and modern web technologies.
-💻 Aspiring Frontend Developer.
-⚛️ Currently expanding my skills in React.js, JavaScript, and modern frontend technologies.
-🚀 Building projects that combine clean code, thoughtful design, and continuous learning.
-🌱 Always exploring new technologies and improving one project at a time.
+🎓 I'm a Software Engineering student with a passion for building modern, responsive, and user-friendly web applications. 💻 As an aspiring Frontend Developer, I'm currently expanding my skills in React.js, JavaScript, and modern web technologies while creating projects that blend clean code, thoughtful UI/UX design, and real-world functionality. 🚀 I enjoy transforming ideas into intuitive digital experiences, exploring new technologies, and continuously improving my skills—one project at a time. 🌱✨
 
 
 ## 🌐 Socials:
